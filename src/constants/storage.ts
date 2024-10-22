@@ -1,0 +1,1 @@
+export const LIKED_JOKE_IDS = 'LIKED_JOKE_IDS';
